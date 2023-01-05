@@ -1,7 +1,6 @@
-package com.bin404;
+package com.bin404.application.controller;
 
-
-import com.bin404.model.OperationType;
+import com.bin404.domain.model.OperationType;
 
 import java.math.BigDecimal;
 

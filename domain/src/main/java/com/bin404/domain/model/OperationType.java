@@ -1,4 +1,4 @@
-package com.bin404.model;
+package com.bin404.domain.model;
 
 public enum OperationType {
     DEPOSIT,

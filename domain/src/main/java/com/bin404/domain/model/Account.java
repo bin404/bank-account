@@ -1,7 +1,7 @@
-package com.bin404.model;
+package com.bin404.domain.model;
 
 
-import com.bin404.exceptions.IllegalOperationException;
+import com.bin404.domain.exceptions.IllegalOperationException;
 
 import java.math.BigDecimal;
 import java.time.LocalDateTime;

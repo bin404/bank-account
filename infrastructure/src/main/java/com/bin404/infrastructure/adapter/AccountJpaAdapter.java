@@ -1,11 +1,11 @@
-package com.bin404.adapter;
+package com.bin404.infrastructure.adapter;
 
-import com.bin404.entity.AccountEntity;
-import com.bin404.mapper.AccountMapper;
-import com.bin404.model.Account;
+import com.bin404.infrastructure.entity.AccountEntity;
+import com.bin404.infrastructure.mapper.AccountMapper;
+import com.bin404.domain.model.Account;
 import org.springframework.stereotype.Component;
-import com.bin404.port.AccountPort;
-import com.bin404.repository.AccountRepository;
+import com.bin404.domain.port.AccountPort;
+import com.bin404.infrastructure.repository.AccountRepository;
 
 import java.util.Optional;
 import java.util.UUID;

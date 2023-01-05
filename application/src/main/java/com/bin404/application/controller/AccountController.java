@@ -1,8 +1,8 @@
-package com.bin404;
+package com.bin404.application.controller;
 
-import com.bin404.exceptions.IllegalOperationException;
-import com.bin404.exceptions.UnknownAccountException;
-import com.bin404.service.AccountService;
+import com.bin404.domain.exceptions.IllegalOperationException;
+import com.bin404.domain.exceptions.UnknownAccountException;
+import com.bin404.domain.service.AccountService;
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.*;
 import org.springframework.web.server.ResponseStatusException;

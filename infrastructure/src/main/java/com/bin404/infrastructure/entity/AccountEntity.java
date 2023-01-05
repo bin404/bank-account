@@ -1,4 +1,4 @@
-package com.bin404.entity;
+package com.bin404.infrastructure.entity;
 
 import jakarta.persistence.OneToMany;
 import lombok.Data;

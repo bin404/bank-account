@@ -1,6 +1,6 @@
-package com.bin404.port;
+package com.bin404.domain.port;
 
-import com.bin404.model.Account;
+import com.bin404.domain.model.Account;
 
 import java.util.Optional;
 import java.util.UUID;

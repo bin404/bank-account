@@ -1,4 +1,4 @@
-package com.bin404.entity;
+package com.bin404.infrastructure.entity;
 
 import java.math.BigDecimal;
 import java.time.LocalDateTime;

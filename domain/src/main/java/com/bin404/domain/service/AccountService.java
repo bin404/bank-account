@@ -1,9 +1,9 @@
-package com.bin404.service;
+package com.bin404.domain.service;
 
-import com.bin404.exceptions.IllegalOperationException;
-import com.bin404.exceptions.UnknownAccountException;
-import com.bin404.model.AccountHistory;
-import com.bin404.model.OperationType;
+import com.bin404.domain.exceptions.IllegalOperationException;
+import com.bin404.domain.exceptions.UnknownAccountException;
+import com.bin404.domain.model.AccountHistory;
+import com.bin404.domain.model.OperationType;
 
 import java.math.BigDecimal;
 import java.util.UUID;

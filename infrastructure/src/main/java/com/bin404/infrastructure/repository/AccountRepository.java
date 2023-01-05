@@ -1,6 +1,6 @@
-package com.bin404.repository;
+package com.bin404.infrastructure.repository;
 
-import com.bin404.entity.AccountEntity;
+import com.bin404.infrastructure.entity.AccountEntity;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.UUID;

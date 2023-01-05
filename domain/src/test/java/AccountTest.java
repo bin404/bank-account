@@ -1,8 +1,8 @@
 
-import com.bin404.exceptions.IllegalOperationException;
-import com.bin404.model.Account;
-import com.bin404.model.AccountOperation;
-import com.bin404.model.OperationType;
+import com.bin404.domain.exceptions.IllegalOperationException;
+import com.bin404.domain.model.Account;
+import com.bin404.domain.model.AccountOperation;
+import com.bin404.domain.model.OperationType;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.params.ParameterizedTest;
